@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/FqBTvSNjNzeZG/giphy.gif">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </p>
 
 
@@ -10,4 +10,3 @@
 <p align="center"><a href="https://github.com/Mister-dark-prince"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mister-Dark-Prince&theme=radical&layout=compact"></a></p> 
 
 
-<iframe src="https://giphy.com/embed/RbDKaczqWovIugyJmW" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p>
